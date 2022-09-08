@@ -1,2 +1,2 @@
-# pre-work-mustafaaldaffaie
-pre-work study
+# repository-mustafaaldaffaie
+work-study
